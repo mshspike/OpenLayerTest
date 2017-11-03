@@ -1,2 +1,2 @@
-# OpenLayerTest
-Testing out OpenLayer embedded map
+# OpenStreetMapTest
+Testing out OpenStreetMap embedded map with Leaflet.js
