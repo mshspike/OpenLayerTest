@@ -1,6 +1,5 @@
 # OpenStreetMapTest
-Testing out OpenStreetMap embedded map with different API
+Testing out OpenStreetMap embedded map with Leaflet.js
 
-1. [Leaflet.js](http://leafletjs.com)
-2. [OpenLayer.js](http://openlayers.org)
-3. Mores to come...
+* [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Develop)
+* [Leaflet.js](http://leafletjs.com)
